@@ -82,7 +82,7 @@ void loop() {
     }
     delayMicroseconds(d);
     digitalWrite(SIGNAL_A, LOW);
-    digitalWrite(SIGNAL_B, LOW);S
+    digitalWrite(SIGNAL_B, LOW);
     a = 500; //reset a to the normal period
   }            
 
